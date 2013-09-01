@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:06,935 --> 00:00:09,138
 A bill on the floor
 
@@ -13,434 +13,607 @@ Sometimes simple questions
 don't have simple answers
 
 4
-00:00:17,238 --> 00:00:18,912
+00:00:17,238 --> 00:00:18,908
 Let's see...
 
 5
-00:00:18,908 --> 00:00:22,675
+00:00:18,908 --> 00:00:18,912
+Five main points draw
+the area where it all happened
+Let's see...
+
+6
+00:00:18,912 --> 00:00:21,100
 Five main points draw
 the area where it all happened
 
-6
-00:00:21,100 --> 00:00:23,067
+7
+00:00:21,100 --> 00:00:22,675
+One: Chewing gum
+Five main points draw
+the area where it all happened
+
+8
+00:00:22,675 --> 00:00:23,067
 One: Chewing gum
 
-7
+9
 00:00:23,063 --> 00:00:25,383
 We see colour stains on the floor
 
-8
+10
 00:00:25,382 --> 00:00:29,669
 but we hardly ever imagine
 that every gum, like every bill,
 
-9
+11
 00:00:29,667 --> 00:00:31,755
 has an origin and its own history
 
-10
-00:00:33,024 --> 00:00:36,550
+12
+00:00:33,024 --> 00:00:36,549
 A few streets away, a can: 2
 
-11
-00:00:36,549 --> 00:00:40,521
+13
+00:00:36,549 --> 00:00:36,550
 Once bright and new,
- it has gone rusty with time.
+it has gone rusty with time.
+A few streets away, a can: 2
 
-12
+14
+00:00:36,550 --> 00:00:40,521
+Once bright and new,
+it has gone rusty with time.
+
+15
 00:00:40,521 --> 00:00:42,287
 Like everything in life, I guess
 
-13
+16
 00:00:42,284 --> 00:00:45,365
 3: A car protected by a cover.
 
-14
+17
 00:00:45,366 --> 00:00:47,366
 This girl has never seen
 what's inside the cover.
 
-15
+18
 00:00:48,623 --> 00:00:52,764
 Every day she walks by and she imagines
 something different inside.
 
-16
+19
 00:00:53,049 --> 00:00:54,456
 An orchestra...
 
-17
+20
 00:00:54,900 --> 00:00:57,641
 Or a karate team
 hiding to surprise her
 
-18
+21
 00:00:58,129 --> 00:01:01,735
 4: A dog leash that draws
 the finishing line.
 
-19
+22
 00:01:01,741 --> 00:01:04,649
 In 1989 the company Dogmatich
 
-20
-00:01:05,226 --> 00:01:08,748
+23
+00:01:05,226 --> 00:01:08,737
 registered its first model, 10ft long
 
-21
-00:01:08,737 --> 00:01:11,507
+24
+00:01:08,737 --> 00:01:08,748
+Today Dogmatic offers a wide range of models,
+registered its first model, 10ft long
+
+25
+00:01:08,748 --> 00:01:11,507
 Today Dogmatic offers a wide range of models,
 
-22
+26
 00:01:11,503 --> 00:01:14,793
 like this Dogmatic Maxi with
 a retractable leash for strong dogs.
 
-23
+27
 00:01:15,536 --> 00:01:19,271
 5: A knocked out man
 in front of a bent traffic light.
 
-24
-00:01:19,274 --> 00:01:21,883
+28
+00:01:19,274 --> 00:01:21,873
 The first time he saw
 the word "knocked out"
 
-25
-00:01:21,873 --> 00:01:23,873
+29
+00:01:21,873 --> 00:01:21,883
+was on an Iron Man comic book.
+The first time he saw
+the word "knocked out"
+
+30
+00:01:21,883 --> 00:01:23,873
 was on an Iron Man comic book.
 
-26
+31
 00:01:24,799 --> 00:01:28,133
 I should also talk
 about the three men
 
-27
+32
 00:01:28,134 --> 00:01:29,282
 involved in the plot
 and the destiny of the bill:
 
-28
-00:01:29,282 --> 00:01:32,434
+33
+00:01:29,282 --> 00:01:32,429
 We don't know the identity
 of the first yet
 
-29
-00:01:32,429 --> 00:01:33,866
+34
+00:01:32,429 --> 00:01:32,434
+... but we know he must travel
+We don't know the identity
+of the first yet
+
+35
+00:01:32,434 --> 00:01:33,866
 ... but we know he must travel
 
-30
+36
 00:01:33,863 --> 00:01:35,863
 From here to here
 
-31
+37
 00:01:35,861 --> 00:01:39,238
 Drawing a line between the two points
 
-32
-00:01:39,233 --> 00:01:42,802
+38
+00:01:39,233 --> 00:01:42,798
 we find it measures 737ft
 and we go through:
 
-33
-00:01:42,798 --> 00:01:44,279
+39
+00:01:42,798 --> 00:01:42,802
+Two streets,
+an alley,
+we find it measures 737ft
+and we go through:
+
+40
+00:01:42,802 --> 00:01:44,279
 Two streets,
 an alley,
 
-34
-00:01:44,281 --> 00:01:46,370
+41
+00:01:44,281 --> 00:01:46,368
 a butcher's,
 a supermarket,
 
-35
-00:01:46,368 --> 00:01:47,936
+42
+00:01:46,368 --> 00:01:46,370
+another street,
+two courtyards,
+a butcher's,
+a supermarket,
+
+43
+00:01:46,370 --> 00:01:47,936
 another street,
 two courtyards,
 
-36
+44
 00:01:47,930 --> 00:01:49,354
 a laundry,
 a parking lot
 
-37
+45
 00:01:49,353 --> 00:01:51,353
 and we get
 to our final destination.
 
-38
-00:01:51,772 --> 00:01:54,782
+46
+00:01:51,772 --> 00:01:54,768
 There waits for him
 our second character: Junior
 
-39
-00:01:54,768 --> 00:01:56,970
+47
+00:01:54,768 --> 00:01:54,782
+From now on J.C.T.
+There waits for him
+our second character: Junior
+
+48
+00:01:54,782 --> 00:01:56,968
 From now on J.C.T.
 
-40
-00:01:56,968 --> 00:01:59,469
+49
+00:01:56,968 --> 00:01:56,970
+He is practicing
+his face number 3.
+From now on J.C.T.
+
+50
+00:01:56,970 --> 00:01:59,469
 He is practicing
 his face number 3.
 
-41
+51
 00:01:59,465 --> 00:02:01,814
 which he learned
 from a Lee Marvin movie.
 
-42
+52
 00:02:02,498 --> 00:02:06,335
 His partner, the third person
 involved, is Arturo,
 
-43
-00:02:06,330 --> 00:02:08,932
+53
+00:02:06,330 --> 00:02:08,898
 from now on A.R.C., who waits
 for the other two in another car.
 
-44
-00:02:08,898 --> 00:02:11,722
+54
+00:02:08,898 --> 00:02:08,932
+Precisely at 12:27,
+he will turn the ignition
+from now on A.R.C., who waits
+for the other two in another car.
+
+55
+00:02:08,932 --> 00:02:11,722
 Precisely at 12:27,
 he will turn the ignition
 
-45
-00:02:11,723 --> 00:02:15,425
-
-
-46
-00:02:15,413 --> 00:02:18,875
+56
+00:02:15,413 --> 00:02:18,859
 and it will start moving
 the cylinders.
 
-47
-00:02:18,859 --> 00:02:21,582
+57
+00:02:18,859 --> 00:02:18,875
+There the compression and the spark
+and it will start moving
+the cylinders.
+
+58
+00:02:18,875 --> 00:02:21,574
 There the compression and the spark
 
-48
-00:02:21,574 --> 00:02:27,182
+59
+00:02:21,574 --> 00:02:21,582
+will generate a tiny explosion
+that will turn the mix into gas,
+There the compression and the spark
+
+60
+00:02:21,582 --> 00:02:27,171
 will generate a tiny explosion
 that will turn the mix into gas,
 
-49
-00:02:27,171 --> 00:02:29,538
+61
+00:02:27,171 --> 00:02:27,182
+which will start the engine.
+will generate a tiny explosion
+that will turn the mix into gas,
+
+62
+00:02:27,182 --> 00:02:29,538
 which will start the engine.
 
-50
+63
 00:02:29,939 --> 00:02:32,787
 But for now the car doesn't start.
 
-51
+64
 00:02:33,268 --> 00:02:35,029
 As he waits, A.R.C. is thinking.
 
-52
-00:02:35,984 --> 00:02:37,804
+65
+00:02:35,984 --> 00:02:37,783
 If we could dissect his mind,
 
-53
-00:02:37,783 --> 00:02:39,783
+66
+00:02:37,783 --> 00:02:37,804
+we would see
+dozens of fleeting thoughts
+If we could dissect his mind,
+
+67
+00:02:37,804 --> 00:02:39,783
 we would see
 dozens of fleeting thoughts
 
-54
+68
 00:02:41,374 --> 00:02:43,374
 But maybe I am being indiscreet
 
-55
-00:02:43,796 --> 00:02:49,325
+69
+00:02:43,796 --> 00:02:49,308
 All those thoughts lead to the present
 he has bought for his girlfriend.
 
-56
-00:02:49,308 --> 00:02:50,739
+70
+00:02:49,308 --> 00:02:49,325
+Nice bow.
+All those thoughts lead to the present
+he has bought for his girlfriend.
+
+71
+00:02:49,325 --> 00:02:50,739
 Nice bow.
 
-57
+72
 00:02:51,809 --> 00:02:53,942
 At this very moment
 and nine streets away,
 
-58
+73
 00:02:54,899 --> 00:02:58,865
 a boy is enjoying
 a car wash experience
 
-59
-00:03:00,120 --> 00:03:01,070
+74
+00:03:00,120 --> 00:03:01,067
 Under the same sky,
 
-60
-00:03:01,067 --> 00:03:04,105
+75
+00:03:01,067 --> 00:03:01,070
+small civilisations
+live oblivious to these facts:
+Under the same sky,
+
+76
+00:03:01,070 --> 00:03:04,105
 small civilisations
 live oblivious to these facts:
 
-61
+77
 00:03:04,763 --> 00:03:06,763
 An ant cruises through a crack
 as if it was the Grand Canyon
 
-62
+78
 00:03:08,117 --> 00:03:13,521
 And a fly soars over a grocery
 as if it was the Amazon Jungle.
 
-63
+79
 00:03:14,126 --> 00:03:17,331
 But I'm digressing.
 So much information!
 
-64
-00:03:17,339 --> 00:03:20,304
+80
+00:03:17,339 --> 00:03:20,292
 I forgot another element too
 
-65
-00:03:20,292 --> 00:03:22,813
+81
+00:03:20,292 --> 00:03:20,304
+6: A boy that jumps
+I forgot another element too
+
+82
+00:03:20,304 --> 00:03:22,809
 6: A boy that jumps
 
-66
-00:03:22,809 --> 00:03:24,599
+83
+00:03:22,809 --> 00:03:22,813
+on a dumped matress.
+A few days earlier,
+6: A boy that jumps
+
+84
+00:03:22,813 --> 00:03:24,581
 on a dumped matress.
 A few days earlier,
 
-67
-00:03:24,581 --> 00:03:26,742
+85
+00:03:24,581 --> 00:03:24,599
+for the first time he didn't feel
+like a child when his mother
+on a dumped matress.
+A few days earlier,
+
+86
+00:03:24,599 --> 00:03:26,723
 for the first time he didn't feel
 like a child when his mother
 
-68
-00:03:26,723 --> 00:03:28,723
+87
+00:03:26,723 --> 00:03:26,742
+took him to the junior floor
+instead of the children's.
+for the first time he didn't feel
+like a child when his mother
+
+88
+00:03:26,742 --> 00:03:28,723
 took him to the junior floor
 instead of the children's.
 
-69
+89
 00:03:30,372 --> 00:03:35,007
 A few feet up, an office worker
 pours a glass of water.
 
-70
+90
 00:03:35,801 --> 00:03:40,450
 This action coincides
 with an unexpected spill
 
-71
+91
 00:03:40,726 --> 00:03:42,644
 And I know I'm digressing,
 I know.
 
-72
+92
 00:03:43,243 --> 00:03:47,046
 but can anyone deny the resemblancd
 of that cloud and Richard Nixon?
 
-73
-00:03:47,745 --> 00:03:50,086
+93
+00:03:47,745 --> 00:03:50,067
 A fraction of the time
 the cloud took to be formed
 
-74
-00:03:50,067 --> 00:03:52,853
+94
+00:03:50,067 --> 00:03:50,086
+takes a cloud of milk
+A fraction of the time
+the cloud took to be formed
+
+95
+00:03:50,086 --> 00:03:52,843
 takes a cloud of milk
 
-75
-00:03:52,843 --> 00:03:55,347
+96
+00:03:52,843 --> 00:03:52,853
+to dissolve
+in Albert's cup of coffee
+takes a cloud of milk
+
+97
+00:03:52,853 --> 00:03:55,347
 to dissolve
 in Albert's cup of coffee
 
-76
+98
 00:03:55,537 --> 00:03:57,258
 While he waits, Albert watches TV.
 
-77
+99
 00:03:57,260 --> 00:04:01,566
 The tragedy on the screen
 makes him wonder what would happen
 
-78
+100
 00:04:01,573 --> 00:04:04,507
 if he was in a similar situation
 right now.
 
-79
-00:04:05,920 --> 00:04:08,798
+101
+00:04:05,920 --> 00:04:08,776
 A less harmful explosion
 takes place close to him.
 
-80
-00:04:08,776 --> 00:04:11,437
+102
+00:04:08,776 --> 00:04:08,798
+Martin always bursts
+the yolk of the egg
+A less harmful explosion
+takes place close to him.
+
+103
+00:04:08,798 --> 00:04:11,423
 Martin always bursts
 the yolk of the egg
 
-81
-00:04:11,423 --> 00:04:13,407
+104
+00:04:11,423 --> 00:04:11,437
+with the cap
+of his favourite sandwich.
+Martin always bursts
+the yolk of the egg
+
+105
+00:04:11,437 --> 00:04:13,407
 with the cap
 of his favourite sandwich.
 
-82
+106
 00:04:13,404 --> 00:04:15,404
 Beside him, the waiter prepares
 a hot chocolate for Roman.,
 
-83
+107
 00:04:15,904 --> 00:04:18,904
-who lights another cigarette. 
+who lights another cigarette.
 
-84
+108
 00:04:19,467 --> 00:04:22,467
-He thinks it's cool to smoke 
-only half cigarettes. 
+He thinks it's cool to smoke
+only half cigarettes.
 
-85
+109
 00:04:22,463 --> 00:04:24,287
-Let's not judge him. 
+Let's not judge him.
 
-86
+110
 00:04:24,290 --> 00:04:26,629
 But let's go back
- to the focal point of the plot. 
+to the focal point of the plot.
 
-87
-00:04:27,129 --> 00:04:29,129
+111
+00:04:27,129 --> 00:04:29,097
 It's almost time!
 
-88
-00:04:29,097 --> 00:04:31,097
+112
+00:04:29,097 --> 00:04:29,129
+ARC's thoughts have become ..
+It's almost time!
+
+113
+00:04:29,129 --> 00:04:31,065
 ARC's thoughts have become ..
 
-89
-00:04:31,065 --> 00:04:33,065
+114
+00:04:31,065 --> 00:04:31,097
+.. a bundle of nerves.
+ARC's thoughts have become ..
+
+115
+00:04:31,097 --> 00:04:33,065
 .. a bundle of nerves.
 
-90
+116
 00:04:33,069 --> 00:04:36,429
-Calmer, JCT is engrossed 
+Calmer, JCT is engrossed
 by a wall stain ..
 
-91
+117
 00:04:36,427 --> 00:04:38,427
 .. that reminds him
- of the map of Australia.
+of the map of Australia.
 
-92
-00:04:38,608 --> 00:04:40,062
+118
+00:04:38,608 --> 00:04:40,044
 I don't know ..
 
-93
-00:04:40,044 --> 00:04:42,044
-Maybe we don't need so many details. 
+119
+00:04:40,044 --> 00:04:40,062
+Maybe we don't need so many details.
+I don't know ..
 
-94
-00:04:42,544 --> 00:04:45,544
-Didn't it all start with 
+120
+00:04:40,062 --> 00:04:42,044
+Maybe we don't need so many details.
+
+121
+00:04:42,544 --> 00:04:45,512
+Didn't it all start with
 a very simple question?
 
-95
-00:04:45,512 --> 00:04:47,512
-Maybe we will never know 
-what happened to the bill. 
+122
+00:04:45,512 --> 00:04:45,544
+Maybe we will never know
+what happened to the bill.
+Didn't it all start with
+a very simple question?
 
-96
+123
+00:04:45,544 --> 00:04:47,512
+Maybe we will never know
+what happened to the bill.
+
+124
 00:04:48,508 --> 00:04:50,508
 But ... who really cares?
 
-97
+125
 00:04:51,437 --> 00:04:54,008
 THE RUNAWAY
 
