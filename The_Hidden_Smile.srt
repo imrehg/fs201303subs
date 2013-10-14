@@ -1,342 +1,568 @@
-﻿1
-00:00:10,520 --> 00:00:18,400
-THE HIDDEN SMILE
+1
+00:00:45,400 --> 00:00:47,547
+When I sleep at night I often wake up
+我常在睡覺時
 
 2
-00:00:45,400 --> 00:00:49,080
-When I sleep at night I often wake up
+00:00:47,647 --> 00:00:49,079
 because of nightmares...
+被惡夢驚醒
 
 3
-00:00:49,080 --> 00:00:51,600
-and in my dreams I see how my mother died.
+00:00:49,080 --> 00:00:50,335
+and in my dreams I see
+在惡夢裡我看到
 
 4
-00:00:51,920 --> 00:00:57,480
-She died when she was going to buy
-something in a shop...
+00:00:50,435 --> 00:00:51,600
+how my mother died.
+我媽是怎麼死的
 
 5
-00:00:57,480 --> 00:01:02,080
-I was slowly following her because I wasn't
-wearing any shoes.
+00:00:51,920 --> 00:00:55,140
+She died when she was going to buy
+她死在去商店
 
 6
-00:01:02,080 --> 00:01:05,280
-When she crossed the main road a car ran her over.
+00:00:55,240 --> 00:00:57,479
+something in a shop...
+買東西的路上
 
 7
-00:01:05,280 --> 00:01:09,120
-So she fell to the floor and all her guts were out...
+00:00:57,480 --> 00:00:59,786
+I was slowly following her because
+我在後面跟著她，
 
 8
-00:01:09,120 --> 00:01:13,640
-and all the things she held in her hands flew
-all over the place.
+00:00:59,886 --> 00:01:02,079
+I wasn't wearing any shoes.
+但我沒有穿鞋所以我走得很慢
 
 9
-00:01:13,640 --> 00:01:18,240
-So when I remember this kind of things
-I throw money into the air.
+00:01:02,080 --> 00:01:03,844
+When she crossed the main road
+當她過馬路的時候
 
 10
-00:01:40,600 --> 00:01:41,440
-Hey.
+00:01:03,944 --> 00:01:05,279
+a car ran her over.
+一台車從她身上開輾過
 
 11
-00:01:42,120 --> 00:01:43,880
-What do you want?
+00:01:05,280 --> 00:01:07,040
+So she fell to the floor
+於是她倒在地上、
 
 12
-00:01:44,760 --> 00:01:47,720
-I'm looking for a place to sleep.
+00:01:07,140 --> 00:01:09,119
+and all her guts were out.
+她的腸子都跑出來
 
 13
-00:01:48,120 --> 00:01:49,160
-Where are you from?
+00:01:09,120 --> 00:01:11,930
+and all the things she held in her hands
+所有她拿在手上的東西
 
 14
+00:01:12,030 --> 00:01:13,639
+flew all over the place.
+也飛散四周
+
+15
+00:01:13,640 --> 00:01:16,194
+So when I remember this kind of things
+當我想起這些事情，
+
+16
+00:01:16,294 --> 00:01:18,239
+I throw money into the air.
+我會把錢都丟到空中
+
+17
+00:01:40,600 --> 00:01:41,440
+Hey.
+哈囉
+
+18
+00:01:42,120 --> 00:01:43,880
+What do you want?
+你想幹嘛？
+
+19
+00:01:44,760 --> 00:01:47,720
+I'm looking for a place to sleep.
+我在找可以睡覺過夜的地方
+
+20
+00:01:48,120 --> 00:01:49,160
+Where are you from?
+你從哪邊來的？
+
+21
 00:01:49,520 --> 00:01:51,000
 Mekele.
 
-15
+22
 00:01:51,640 --> 00:01:54,440
 Do you have any family?
-
-16
-00:01:55,320 --> 00:01:58,040
-No, my parents are dead.
-
-17
-00:01:58,040 --> 00:02:00,840
-If you want to sleep here you'll have to pay.
-
-18
-00:02:00,840 --> 00:02:02,640
-How much?
-
-19
-00:02:02,640 --> 00:02:05,080
-Show me how much you got.
-
-20
-00:02:13,840 --> 00:02:15,880
-Now, just go away and don't come back.
-
-21
-00:02:15,880 --> 00:02:17,840
-Give me back my money.
-
-22
-00:02:18,200 --> 00:02:19,080
-Go away!
+你有任何家人嗎？
 
 23
-00:02:20,520 --> 00:02:22,840
-I said go away!
+00:01:55,320 --> 00:01:58,040
+No, my parents are dead.
+沒有，我父母都過世了
 
 24
-00:02:23,840 --> 00:02:26,160
--Please, give me back my money.
--Go away!
+00:01:58,040 --> 00:02:00,840
+If you want to sleep here you'll have to pay.
+如果你想在這裡過夜你得付錢
 
 25
-00:02:26,160 --> 00:02:28,480
-I don´t  have anything left, please...
+00:02:00,840 --> 00:02:02,640
+How much?
+多少錢？
 
 26
-00:02:28,480 --> 00:02:31,560
-Go!
+00:02:02,640 --> 00:02:05,080
+Show me how much you got.
+給我看你有多少錢
 
 27
-00:02:32,200 --> 00:02:32,840
-Go!
+00:02:13,840 --> 00:02:15,880
+Now, just go away and don't come back.
+好了你滾吧、不要再回來
 
 28
-00:02:35,000 --> 00:02:38,320
-If I see you again I'll smash your head with this stick.
+00:02:15,880 --> 00:02:17,840
+Give me back my money.
+把錢還我
 
 29
-00:04:44,120 --> 00:04:47,440
-I used to live in Mekele with my stepmother because I don't
-have my own parents anymore.
+00:02:18,200 --> 00:02:19,080
+Go away!
+走開！
 
 30
-00:04:48,440 --> 00:04:57,480
-My stepmother hit me every day so one night I decided  to steal
-150 birr and ran away from home.
+00:02:20,520 --> 00:02:22,840
+I said go away!
+我叫你走開！
 
 31
-00:04:58,960 --> 00:05:02,720
-I was looking for a truck going to Addis Abeba
-and I found one.
+00:02:23,840 --> 00:02:25,540
+Please, give me back my money.
+拜託！請把錢還我
 
 32
-00:05:03,240 --> 00:05:05,040
-I hid inside the truck´s trailer...
+00:02:25,640 --> 00:02:26,159
+Go away!
+走開！
 
 33
-00:05:05,040 --> 00:05:10,600
-the trailer was so full that it was going dead slow
-so it was easy to run and hide in it.
+00:02:26,160 --> 00:02:28,480
+I don´t have anything left, please...
+那是我僅剩的一切了,拜託…
 
 34
-00:05:10,600 --> 00:05:15,920
-And that's how I arrived to Addis Abeba.
+00:02:28,480 --> 00:02:31,560
+Go!
+滾！
 
 35
-00:05:15,920 --> 00:05:19,480
-And ended up in the streets...
+00:02:32,200 --> 00:02:32,840
+Go!
+滾！
 
 36
-00:07:36,240 --> 00:07:42,200
-Let's finish this chat and go find some business for the night.
+00:02:35,000 --> 00:02:36,099
+If I see you again
+如果我再看到你，
 
 37
-00:07:51,920 --> 00:07:55,400
-How do you feel now? Are you still high?
+00:02:36,199 --> 00:02:38,319
+I'll smash your head with this stick.
+我會用這根棍子打爆你的頭！
 
 38
-00:07:55,400 --> 00:07:59,840
-Not so much, but yesterday it was huge, men...
+00:04:44,120 --> 00:04:45,846
+I used to live in Mekele with my stepmother
+我本來跟我繼母一起住在Mekele
 
 39
-00:08:01,240 --> 00:08:03,880
-My friend stole lot´s of money...
+00:04:45,946 --> 00:04:47,439
+because I don't have my own parents anymore.
+因為我雙親都過世了
 
 40
-00:08:04,800 --> 00:08:06,880
-How did he do it?
+00:04:48,440 --> 00:04:52,382
+My stepmother hit me every day so one night
+我繼母每天都會打我、
 
 41
-00:08:06,880 --> 00:08:11,520
-He was begging so a guy took out
-1 birr from his pocket...
+00:04:52,482 --> 00:04:55,353
+I decided to steal 150 birr
+有一天我偷了150比爾
 
 42
-00:08:11,520 --> 00:08:14,320
-and accidentaly dropped 100 birr...
+00:04:55,453 --> 00:04:57,478
+and ran away from home.
+就逃家了
 
 43
-00:08:14,320 --> 00:08:19,280
-Inmediately he stepped on the bill
-and he took the 1 birr from him so he made 101.
+00:04:58,960 --> 00:05:00,790
+I was looking for a truck going to
+後來我找到一輛要去
 
 44
-00:08:19,280 --> 00:08:22,320
-And do you know what he did with the money?
+00:05:00,890 --> 00:05:02,720
+Addis Abeba and I found one.
+Addis Abeba 的卡車
 
 45
-00:08:22,320 --> 00:08:27,880
-He fucked all night with Bikina.
+00:05:03,240 --> 00:05:05,040
+I hid inside the truck´s trailer...
+我躲在後面的拖車裡
 
 46
-00:08:29,960 --> 00:08:34,320
-Hey guys, do you know this kid?
+00:05:05,040 --> 00:05:06,520
+the trailer was so full
+因為拖車很滿，
 
 47
-00:08:34,320 --> 00:08:39,640
-Yeah, I know him. One of my friends tried to steal
-money from him, the kid told the police so they beat him.
+00:05:06,620 --> 00:05:08,254
+that it was going dead slow
+所以速度很慢，
 
 48
-00:08:39,640 --> 00:08:42,520
-I think I saw 50 birr on his hand.
+00:05:08,354 --> 00:05:10,599
+so it was easy to run and hide in it.
+很容易就跳上去了
 
 49
-00:08:42,520 --> 00:08:45,520
-Really?
-It could be enough for our party tonight.
+00:05:10,600 --> 00:05:15,920
+And that's how I arrived to Addis Abeba.
+這也是我怎麼到Addis Abeba這裡來的
 
 50
-00:08:45,520 --> 00:08:46,840
-Call him.
+00:05:15,920 --> 00:05:19,480
+And ended up in the streets...
+這也是我怎麼到這裡來的
 
 51
-00:08:46,840 --> 00:08:48,720
-Hey, kid!
+00:07:36,240 --> 00:07:38,405
+Let's finish this chat
+我們差不多了，
 
 52
-00:08:53,160 --> 00:08:59,360
-Hey you! Yes, yes, you!
-Come here, we want to talk to you!
+00:07:38,505 --> 00:07:42,199
+and go find some business for the night.
+去為今晚找點賺頭吧
 
 53
-00:09:05,160 --> 00:09:06,960
-Closer!
+00:07:51,920 --> 00:07:53,774
+How do you feel now?
+你現在覺得如何？
 
 54
-00:09:08,720 --> 00:09:11,040
-Show us what you got, kid!
+00:07:53,874 --> 00:07:55,399
+Are you still high?
+還很嗨嘛？
 
 55
-00:09:11,040 --> 00:09:12,640
-Search his pockets!
+00:07:55,400 --> 00:07:56,618
+Not so much, 
+現在沒了，
 
 56
-00:09:12,640 --> 00:09:14,480
-Shut up and show us what you have!
+00:07:56,718 --> 00:07:59,839
+but yesterday it was huge, men...
+但昨天真的很誇張...
 
 57
-00:09:14,480 --> 00:09:16,360
-I don't have anything.
+00:08:01,240 --> 00:08:03,880
+My friend stole lot´s of money...
+我朋友昨天偷了一大筆錢...
 
 58
-00:09:16,360 --> 00:09:18,840
-Where is the fucking money?
+00:08:04,800 --> 00:08:06,880
+How did he do it?
+他怎麼做到的？
 
 59
-00:09:18,840 --> 00:09:21,080
-I don't have anything, I'm telling you!
+00:08:06,880 --> 00:08:09,119
+He was begging so a guy took out
+他在行乞，
 
 60
-00:09:21,080 --> 00:09:23,240
-Just leave me alone, the other kids took the money.
+00:08:09,219 --> 00:08:11,519
+1 birr from his pocket...
+有個傢伙想給他1 比爾，
 
 61
-00:09:23,240 --> 00:09:28,040
-Which kids took your money, tell us!
+00:08:11,520 --> 00:08:14,320
+and accidentaly dropped 100 birr...
+卻從口袋裡掉了100比爾出來...
 
 62
-00:09:28,040 --> 00:09:30,640
-Just leave me alone, ok?
+00:08:14,320 --> 00:08:16,370
+Inmediately he stepped on the bill
+他馬上踩住那張100, 
 
 63
-00:09:30,640 --> 00:09:32,280
-Hey, just leave the kid alone!
+00:08:16,470 --> 00:08:18,232
+and he took the 1 birr from him
+再加上那1 比爾，
 
 64
-00:09:32,280 --> 00:09:36,000
-Do you have any problem with us?
+00:08:18,332 --> 00:08:19,278
+so he made 101.
+總共101比爾
 
 65
-00:09:36,000 --> 00:09:39,320
-You know that he's living with us, why are you doing this?
+00:08:19,280 --> 00:08:22,320
+And do you know what he did with the money?
+那你知道他怎麼花這些錢嘛？
 
 66
-00:09:39,320 --> 00:09:41,920
-Liar! we don't know this kid, we haven't seen him before, he's new!
+00:08:22,320 --> 00:08:27,880
+He fucked all night with Bikina.
+他拿去跟Bikina睡了整晚
 
 67
-00:09:41,920 --> 00:09:48,160
-This kid was in this place even before you were!
+00:08:29,960 --> 00:08:34,320
+Hey guys, do you know this kid?
+嘿大夥，你們認得那小子嘛？
 
 68
-00:09:48,160 --> 00:09:51,320
-Be careful! you don't have the power to protect him!
+00:08:34,320 --> 00:08:35,091
+Yeah, I know him.
+認得阿，
 
 69
-00:09:51,320 --> 00:09:53,240
-Come on, let´s go.
+00:08:35,191 --> 00:08:36,773
+One of my friends tried to steal
+我有個朋友想偷他的錢，
 
 70
-00:09:53,240 --> 00:09:56,360
-We´ll be watching you!
+00:08:36,873 --> 00:08:37,711
+money from him,
+那小子跑去報警所以
 
 71
-00:11:35,600 --> 00:11:38,120
-Hey kid! Give us back the stick!
+00:08:37,811 --> 00:08:39,638
+the kid told the police so they beat him.
+他們揍了他一頓
 
 72
-00:11:50,360 --> 00:11:52,960
-Hey, kid, give it to us,
-can't you see he can't walk without it!
+00:08:39,640 --> 00:08:42,520
+I think I saw 50 birr on his hand.
+我好像看過他拿著50比爾在手上
 
 73
-00:11:54,720 --> 00:11:57,160
-Give me back my money then, I don´t have anything.
-Can´t you see that?!
+00:08:42,520 --> 00:08:43,493
+Really?
+真假？
 
 74
-00:11:57,160 --> 00:11:59,280
-We don´t have anything either!
+00:08:43,593 --> 00:08:45,519
+It could be enough for our party tonight.
+那夠我們今晚狂歡了耶
 
 75
-00:11:59,280 --> 00:12:00,920
-I don't have any family.
+00:08:45,520 --> 00:08:46,840
+Call him.
+叫他
 
 76
-00:12:00,920 --> 00:12:03,600
-Neither do us!
+00:08:46,840 --> 00:08:48,720
+Hey, kid!
+嘿小子！
 
 77
-00:12:03,840 --> 00:12:05,760
-I'm going to sell the stick to get some food.
+00:08:53,160 --> 00:08:55,574
+Hey you! Yes, yes, you!
+你！對就是你！
 
 78
-00:12:05,760 --> 00:12:08,320
-Sell it? Give it back to me now!
+00:08:55,674 --> 00:08:59,359
+Come here, we want to talk to you!
+過來，我們有話跟你說！
 
 79
-00:12:08,320 --> 00:12:10,520
-He cannot walk without the stick!
+00:09:05,160 --> 00:09:06,960
+Closer!
+靠近一點！
 
 80
-00:12:10,520 --> 00:12:13,560
-- Give back the stick!
-- We're going to beat you up!
+00:09:08,720 --> 00:09:11,040
+Show us what you got, kid!
+給我們看你有什麼
 
 81
+00:09:11,040 --> 00:09:12,640
+Search his pockets!
+搜他口袋！
+
+82
+00:09:12,640 --> 00:09:14,480
+Shut up and show us what you have!
+閉嘴！給我們看你有什麼！
+
+83
+00:09:14,480 --> 00:09:16,360
+I don't have anything.
+我什麼都沒有
+
+84
+00:09:16,360 --> 00:09:18,840
+Where is the fucking money?
+你該死的錢在哪！
+
+85
+00:09:18,840 --> 00:09:21,080
+I don't have anything, I'm telling you!
+我真的什麼都沒有，我說的是實話！
+
+86
+00:09:21,080 --> 00:09:21,848
+Just leave me alone,
+不要管我，
+
+87
+00:09:21,948 --> 00:09:23,239
+the other kids took the money.
+另一個孩子拿了我的錢
+
+88
+00:09:23,240 --> 00:09:28,040
+Which kids took your money, tell us!
+哪個孩子拿的？告訴我們！
+
+89
+00:09:28,040 --> 00:09:30,640
+Just leave me alone, ok?
+不要管我, 好嘛？
+
+90
+00:09:30,640 --> 00:09:32,280
+Hey, just leave the kid alone!
+好啦！不要理他啦！
+
+91
+00:09:32,280 --> 00:09:36,000
+Do you have any problem with us?
+你對我們有什麼意見嘛？
+
+92
+00:09:36,000 --> 00:09:37,784
+You know that he's living with us,
+你明知道他跟我們
+
+93
+00:09:37,884 --> 00:09:39,319
+why are you doing this?
+住在一起幹嘛找他麻煩？
+
+94
+00:09:39,320 --> 00:09:40,234
+Liar! we don't know this kid,
+你騙人！
+
+95
+00:09:40,334 --> 00:09:41,919
+we haven't seen him before, he's new!
+我們根本不認識也沒見過他！他是新來的！
+
+96
+00:09:41,920 --> 00:09:48,160
+This kid was in this place even before you were!
+這孩子比你還早來到這裡！
+
+97
+00:09:48,160 --> 00:09:48,887
+Be careful!
+你注意點！
+
+98
+00:09:48,987 --> 00:09:51,319
+you don't have the power to protect him!
+你沒有權力保護他！
+
+99
+00:09:51,320 --> 00:09:53,240
+Come on, let´s go.
+好了啦，走啦
+
+100
+00:09:53,240 --> 00:09:56,360
+We´ll be watching you!
+我們會盯著你的！
+
+101
+00:11:35,600 --> 00:11:38,120
+Hey kid! Give us back the stick!
+嘿小子！把棍子還來！
+
+102
+00:11:50,360 --> 00:11:51,303
+Hey, kid, give it to us,
+小子！把棍子還我們！
+
+103
+00:11:51,403 --> 00:11:52,959
+can't you see he can't walk without it!
+他沒有那個不能走路你看不出來嘛！
+
+104
+00:11:54,720 --> 00:11:55,554
+Give me back my money then,
+那把錢還我！
+
+105
+00:11:55,654 --> 00:11:57,159
+ I don´t have anything. Can´t you see that?!
+我什麼都沒有了你看不出來嘛！
+
+106
+00:11:57,160 --> 00:11:59,280
+We don´t have anything either!
+我們也什麼都沒有阿！
+
+107
+00:11:59,280 --> 00:12:00,920
+I don't have any family.
+但是我連家人都沒有了
+
+108
+00:12:00,920 --> 00:12:03,600
+Neither do us!
+我們也沒有阿！
+
+109
+00:12:03,840 --> 00:12:05,760
+I'm going to sell the stick to get some food.
+我要把這跟棍子賣掉換點食物
+
+110
+00:12:05,760 --> 00:12:08,320
+Sell it? Give it back to me now!
+賣掉？你給我還來喔！
+
+111
+00:12:08,320 --> 00:12:10,520
+He cannot walk without the stick!
+他這樣真的不能走路！
+
+112
+00:12:10,520 --> 00:12:11,779
+Give back the stick!
+棍子還來！
+
+113
+00:12:11,879 --> 00:12:13,559
+We're going to beat you up!
+我們要揍死你！
+
+114
 00:13:12,480 --> 00:13:18,400
 THE HIDDEN SMILE
 
