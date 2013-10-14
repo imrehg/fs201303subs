@@ -1,442 +1,644 @@
-﻿1
-00:00:06,935 --> 00:00:09,138
-A bill on the floor
+1
+00:00:05,300 --> 00:00:07,503
+A bill on the floor.
+一張帳單躺在地上
 
 2
-00:00:09,140 --> 00:00:13,200
+00:00:07,505 --> 00:00:09,151
 How did it get here
-and what destiny awaits it ?
+它怎麼到這裡來的？
 
 3
-00:00:13,260 --> 00:00:17,200
-Sometimes simple questions
-don't have simple answers
+00:00:09,251 --> 00:00:11,563
+and what destiny awaits it ?
+什麼樣的命運在等著它？
 
 4
-00:00:17,240 --> 00:00:18,860
-Let's see…
+00:00:11,625 --> 00:00:13,514
+Sometimes simple questions
+有時簡單的問題
 
 5
-00:00:18,900 --> 00:00:22,620
-Five main points draw
-the area where it all happened
+00:00:13,614 --> 00:00:15,563
+don't have simple answers
+卻有著不簡單的答案
 
 6
-00:00:22,680 --> 00:00:24,600
-One : Chewing gum
+00:00:15,605 --> 00:00:17,225
+Let's see…
+讓我們看看......
 
 7
-00:00:24,640 --> 00:00:26,920
-We see colour stains on the floor
+00:00:17,265 --> 00:00:18,750
+Five main points draw
+用五個點
 
 8
-00:00:26,960 --> 00:00:31,200
-but we hardly ever imagine
-that every gum, like every bill,
+00:00:18,850 --> 00:00:20,984
+the area where it all happened
+連出案發現場
 
 9
-00:00:31,240 --> 00:00:33,320
-has an origin and its own history
+00:00:21,045 --> 00:00:22,965
+One: Chewing gum
+一： 口香糖
 
 10
-00:00:34,600 --> 00:00:38,080
-A few streets away, a can : 2
+00:00:23,005 --> 00:00:25,285
+We see colour stains on the floor
+我們常看到口香糖在地板上的髒汙
 
 11
-00:00:38,120 --> 00:00:42,060
-Once bright and new,
-it has gone rusty with time.
+00:00:25,325 --> 00:00:27,211
+but we hardly ever imagine
+但我們卻幾乎沒人想像過
 
 12
-00:00:42,100 --> 00:00:43,820
-Like everything in life, I guess
+00:00:27,311 --> 00:00:29,564
+that every gum, like every bill,
+每個口香糖像每張帳單一樣
 
 13
-00:00:43,860 --> 00:00:46,900
-3 : A car protected by a cover.
+00:00:29,605 --> 00:00:31,685
+has an origin and its own history
+都有自己的人生故事
 
 14
-00:00:46,940 --> 00:00:48,940
-This girl has never seen
-what's inside the cover.
+00:00:32,965 --> 00:00:36,445
+A few streets away, a can: 2
+隔幾條街有個罐子，它是第二個點
 
 15
-00:00:50,200 --> 00:00:54,340
-Every day she walks by and she imagines
-something different inside.
+00:00:36,485 --> 00:00:38,071
+Once bright and new,
+曾經閃閃發亮，
 
 16
-00:00:54,620 --> 00:00:56,020
-An orchestra…
+00:00:38,171 --> 00:00:40,424
+it has gone rusty with time.
+但隨著時間侵逐漸黯淡
 
 17
-00:00:56,480 --> 00:00:59,220
-Or a karate team
-hiding to surprise her
+00:00:40,465 --> 00:00:42,185
+Like everything in life, I guess
+大概就像生命的一切吧
 
 18
-00:00:59,700 --> 00:01:03,280
-4 : A dog leash that draws
-the finishing line.
+00:00:42,225 --> 00:00:45,265
+3: A car protected by a cover.
+三： 一輛被防塵布蓋著的車
 
 19
-00:01:03,320 --> 00:01:06,220
-In 1989 the company Dogmatich
+00:00:45,305 --> 00:00:46,224
+This girl has never seen
+這女孩從來沒看過
 
 20
-00:01:06,800 --> 00:01:10,260
-registered its first model, 10ft long
+00:00:46,324 --> 00:00:47,304
+what's inside the cover.
+在布下面到底有什麼。
 
 21
-00:01:10,300 --> 00:01:13,040
-Today Dogmatic offers a wide range of models,
+00:00:48,565 --> 00:00:50,726
+Every day she walks by and she imagines
+她走過的每一天，
 
 22
-00:01:13,080 --> 00:01:16,360
-like this Dogmatic Maxi with
-a retractable leash for strong dogs.
+00:00:50,826 --> 00:00:52,704
+something different inside. 
+她都想像裡面有不同的東西。
 
 23
-00:01:17,100 --> 00:01:20,800
-5 : A knocked out man
-in front of a bent traffic light.
+00:00:52,985 --> 00:00:54,385
+An orchestra…
+一個管弦樂團...
 
 24
-00:01:20,840 --> 00:01:23,400
-The first time he saw
-the word « knocked out »
+00:00:54,845 --> 00:00:56,084
+Or a karate team
+或空手道隊躲起來
 
 25
-00:01:23,440 --> 00:01:25,440
-was on an Iron Man comic book.
+00:00:56,184 --> 00:00:57,584
+hiding to surprise her
+想給她驚喜
 
 26
-00:01:26,380 --> 00:01:29,660
-I should also talk
-about the three men
+00:00:58,065 --> 00:01:01,645
+4: A dog leash that draws the finishing line.
+四： 描繪終點線的那條狗繩。
 
 27
-00:01:29,700 --> 00:01:30,820
-involved in the plot
-and the destiny of the bill :
+00:01:01,685 --> 00:01:04,585
+In 1989 the company Dogmatich
+1989 年 Dogmatich 公司
 
 28
-00:01:30,860 --> 00:01:33,960
-We don't know the identity
-of the first yet
+00:01:05,165 --> 00:01:08,625
+registered its first model, 10ft long
+註冊了第一種款式，10 英尺長
 
 29
-00:01:34,000 --> 00:01:35,400
-… But we know he must travel
+00:01:08,665 --> 00:01:11,405
+Today Dogmatic offers a wide range of models,
+今天 Dogmatic 提供各種不同的尺寸
 
 30
-00:01:35,440 --> 00:01:37,400
-From here to here
+00:01:11,445 --> 00:01:12,899
+like this Dogmatic Maxi with
+像這個教條 Maxi
 
 31
-00:01:37,440 --> 00:01:40,760
-Drawing a line between the two points
+00:01:12,999 --> 00:01:14,724
+a retractable leash for strong dogs.
+與牽引器強壯的狗。
 
 32
-00:01:40,800 --> 00:01:44,320
-we find it measures 737ft
-and we go through :
+00:01:15,465 --> 00:01:17,008
+5: A knocked out man
+五： 在歪掉的紅路燈
 
 33
-00:01:44,360 --> 00:01:45,820
-Two streets,
-an alley,
+00:01:17,108 --> 00:01:19,164
+in front of a bent traffic light.
+前昏過去的男人。
 
 34
-00:01:45,860 --> 00:01:47,900
-a butcher's,
-a supermarket,
+00:01:19,205 --> 00:01:20,346
+The first time he saw
+他第一次看到
 
 35
-00:01:47,940 --> 00:01:49,460
-another street,
-two courtyards,
+00:01:20,446 --> 00:01:21,764
+the word « knocked out »
+昏過去]這個字
 
 36
-00:01:49,500 --> 00:01:50,880
-a laundry,
-a parking lot
+00:01:21,805 --> 00:01:23,805
+was on an Iron Man comic book.
+是在鋼鐵人的漫畫上
 
 37
-00:01:50,920 --> 00:01:52,920
-and we get
-to our final destination.
+00:01:24,745 --> 00:01:28,025
+I should also talk about the three men
+我也該談談三個男人
 
 38
-00:01:53,340 --> 00:01:56,300
-There waits for him
-our second character : Junior
+00:01:28,065 --> 00:01:28,514
+involved in the plot
+也參與在這個故事 
 
 39
-00:01:56,340 --> 00:01:58,500
-From now on JCT
+00:01:28,614 --> 00:01:29,184
+and the destiny of the bill:
+以及帳單的命運裡
 
 40
-00:01:58,540 --> 00:02:01,000
-He is practicing
-his face number 3.
+00:01:29,225 --> 00:01:30,978
+We don't know the identity
+我們還不知道
 
 41
-00:02:01,040 --> 00:02:03,380
-Which he learned
-from a Lee Marvin movie.
+00:01:31,078 --> 00:01:32,324
+of the first yet
+第一位的身分
 
 42
-00:02:04,060 --> 00:02:07,860
-His partner, the third person
-involved, is Arturo,
+00:01:32,365 --> 00:01:33,765
+… But we know he must travel
+…但我們知道他必須旅行
 
 43
-00:02:07,900 --> 00:02:10,420
-from now on ARC, who waits
-for the other two in another car.
+00:01:33,805 --> 00:01:35,765
+From here to here
+從這裡到這裡
 
 44
-00:02:10,460 --> 00:02:13,300
-Precisely at 12 : 27,
-he will turn the ignition
+00:01:35,805 --> 00:01:39,125
+Drawing a line between the two points
+畫出兩點之中這一條線
 
 45
-00:02:16,980 --> 00:02:20,380
-and it will start moving
-the cylinders.
+00:01:39,165 --> 00:01:41,260
+we find it measures 737ft
+我們發現它長達737 英尺，
 
 46
-00:02:20,440 --> 00:02:23,100
-There the compression and the spark
+00:01:41,360 --> 00:01:42,685
+and we go through:
+而我們會經過：
 
 47
-00:02:23,140 --> 00:02:28,700
-will generate a tiny explosion
-that will turn the mix into gas,
+00:01:42,725 --> 00:01:44,185
+Two streets, an alley,
+兩條街道，一條巷子，
 
 48
-00:02:28,740 --> 00:02:31,100
-which will start the engine.
+00:01:44,225 --> 00:01:46,265
+a butcher's, a supermarket,
+一家肉鋪，一家超市，
 
 49
-00:02:31,520 --> 00:02:34,360
-But for now the car doesn't start.
+00:01:46,305 --> 00:01:47,825
+another street, two courtyards,
+另一個街頭，兩座院子，
 
 50
-00:02:34,840 --> 00:02:36,600
-As he waits, ARC is thinking.
+00:01:47,865 --> 00:01:49,245
+a laundry, a parking lot
+洗衣店、 停車場
 
 51
-00:02:37,560 --> 00:02:39,320
-If we could dissect his mind,
+00:01:49,285 --> 00:01:51,285
+and we get to our final destination.
+然後我們到達我們最終的目的地。
 
 52
-00:02:39,360 --> 00:02:41,360
-we would see
-dozens of fleeting thoughts
+00:01:51,705 --> 00:01:52,712
+There waits for him
+在那裡等著
 
 53
-00:02:42,940 --> 00:02:44,940
-But maybe I am being indiscreet
+00:01:52,812 --> 00:01:54,664
+our second character: Junior
+我們的第二個角色： Junior
 
 54
-00:02:45,360 --> 00:02:50,840
-All those thoughts lead to the present
-he has bought for his girlfriend.
+00:01:54,705 --> 00:01:56,865
+From now on JCT
+從現在起 JCT
 
 55
-00:02:50,880 --> 00:02:52,320
-Nice bow.
+00:01:56,905 --> 00:01:59,365
+He is practicing his face number 3,
+他在練習他臉上的號碼 3,
 
 56
-00:02:53,380 --> 00:02:55,520
-At this very moment
-and nine streets away,
+00:01:59,405 --> 00:02:01,745
+which he learned from a Lee Marvin movie.
+他從李馬文（李馬榮）電影裡面學到的。
 
 57
-00:02:56,480 --> 00:03:00,440
-a boy is enjoying
-a car wash experience
+00:02:02,425 --> 00:02:05,169
+His partner, the third person involved,
+他的搭檔，那第三個人，
 
 58
-00:03:01,700 --> 00:03:02,600
-Under the same sky,
+00:02:05,269 --> 00:02:06,224
+is Arturo,
+是Arturo，
 
 59
-00:03:02,640 --> 00:03:05,680
-small civilisations
-live oblivious to these facts :
+00:02:06,265 --> 00:02:07,299
+from now on ARC, who waits
+從現在起ARC，
 
 60
-00:03:06,340 --> 00:03:08,340
-An ant cruises through a crack
-as if it was the Grand Canyon
+00:02:07,399 --> 00:02:08,783
+for the other two in another car.
+等著兩個在另一輛車的人。
 
 61
-00:03:09,680 --> 00:03:15,100
-And a fly soars over a grocery
-as if it was the Amazon Jungle.
+00:02:08,825 --> 00:02:11,665
+Precisely at 12:27, he will turn the ignition
+在準 12:27不差一秒，他就會啟動點火器
 
 62
-00:03:15,700 --> 00:03:18,860
-But I'm digressing.
-So much information !
+00:02:15,345 --> 00:02:18,745
+and it will start moving the cylinders.
+如此汽缸就會開始運作
 
 63
-00:03:18,920 --> 00:03:21,820
-I forgot another element too
+00:02:18,805 --> 00:02:21,465
+There the compression and the spark
+那裡的壓力與火花
 
 64
-00:03:21,860 --> 00:03:24,340
-6 : A boy that jumps
+00:02:21,505 --> 00:02:24,199
+will generate a tiny explosion
+將生成一個小爆炸 
 
 65
-00:03:24,380 --> 00:03:26,120
-on a dumped matress.
-A few days earlier,
+00:02:24,299 --> 00:02:27,064
+that will turn the mix into gas,
+並且與汽油融合
 
 66
-00:03:26,160 --> 00:03:28,260
-for the first time he didn't feel
-like a child when his mother
+00:02:27,105 --> 00:02:29,465
+which will start the engine.
+然後發動機就會被啟動。
 
 67
-00:03:28,300 --> 00:03:30,300
-took him to the junior floor
-instead of the children's.
+00:02:29,885 --> 00:02:32,725
+But for now the car doesn't start.
+但現在這輛車沒有被發動。
 
 68
-00:03:31,940 --> 00:03:36,580
-A few feet up, an office worker
-pours a glass of water.
+00:02:33,205 --> 00:02:34,965
+As he waits, ARC is thinking.
+在他在等待的時候，ARC正在思考著。
 
 69
-00:03:37,380 --> 00:03:42,020
-This action coincides
-with an unexpected spill
+00:02:35,925 --> 00:02:37,685
+If we could dissect his mind,
+如果我們能解剖他的頭腦，
 
 70
-00:03:42,300 --> 00:03:44,220
-And I know I'm digressing,
-I know.
+00:02:37,725 --> 00:02:38,341
+we would see
+我們將會看到
 
 71
-00:03:44,820 --> 00:03:48,620
-But can anyone deny the resemblancd
-of that cloud and Richard Nixon ?
+00:02:38,441 --> 00:02:39,724
+dozens of fleeting thoughts
+幾十個不斷閃過的想法
 
 72
-00:03:49,320 --> 00:03:51,600
-A fraction of the time
-the cloud took to be formed
+00:02:41,305 --> 00:02:43,305
+But maybe I am being indiscreet
+但也許我太輕率
 
 73
-00:03:51,640 --> 00:03:54,380
-takes a cloud of milk
+00:02:43,725 --> 00:02:46,503
+All those thoughts lead to the present
+所有這些想法導致他
 
 74
-00:03:54,420 --> 00:03:56,920
-to dissolve
-in Albert's cup of coffee
+00:02:46,603 --> 00:02:49,204
+he has bought for his girlfriend.
+為他的女朋友買了的禮物。
 
 75
-00:03:57,100 --> 00:03:58,780
-While he waits, Albert watches TV.
+00:02:49,245 --> 00:02:50,685
+Nice bow.
+這蝴蝶結不錯看吼
 
 76
-00:03:58,840 --> 00:04:03,100
-The tragedy on the screen
-makes him wonder what would happen
+00:02:51,745 --> 00:02:53,885
+At this very moment and nine streets away,
+在這個非常時刻，九個街道以外，
 
 77
-00:04:03,140 --> 00:04:06,080
-if he was in a similar situation
-right now.
+00:02:54,845 --> 00:02:58,805
+a boy is enjoying a car wash experience
+一個男孩正在享受他洗車得經驗
 
 78
-00:04:07,500 --> 00:04:10,300
-A less harmful explosion
-takes place close to him.
+00:03:00,065 --> 00:03:00,965
+Under the same sky,
+同一片天空下
 
 79
-00:04:10,340 --> 00:04:12,960
-Martin always bursts
-the yolk of the egg
+00:03:01,005 --> 00:03:04,045
+small civilisations live oblivious to these facts:
+小居民們無視這些生活中事實：
 
 80
-00:04:13,000 --> 00:04:14,940
-with the cap
-of his favourite sandwich.
+00:03:04,705 --> 00:03:05,737
+An ant cruises through a crack
+一隻 螞蟻號郵輪 通過一條裂縫，
 
 81
-00:04:14,980 --> 00:04:16,980
-Beside him, the waiter prepares
-a hot chocolate for Roman. ,
+00:03:05,837 --> 00:03:06,704
+as if it was the Grand Canyon
+就像通過大峽谷一樣
 
 82
-00:04:17,480 --> 00:04:20,480
-who lights another cigarette.
+00:03:08,045 --> 00:03:10,641
+And a fly soars over a grocery
+一隻蒼蠅飛過一家雜貨店，
 
 83
-00:04:21,040 --> 00:04:24,000
-He thinks it's cool to smoke
-only half cigarettes.
+00:03:10,741 --> 00:03:13,464
+as if it was the Amazon Jungle.
+就像它是亞馬遜叢林一樣。
 
 84
-00:04:24,040 --> 00:04:25,820
-Let's not judge him.
+00:03:14,065 --> 00:03:17,225
+But I'm digressing. So much information !
+但我離題了。這麼多的資訊 ！
 
 85
-00:04:25,860 --> 00:04:28,200
-But let's go back
-to the focal point of the plot.
+00:03:17,285 --> 00:03:20,185
+I forgot another element too
+我也忘了另一個重要元素
 
 86
-00:04:28,700 --> 00:04:30,620
-It's almost time !
+00:03:20,225 --> 00:03:22,705
+6: A boy that jumps
+六： 一個跳躍的男孩
 
 87
-00:04:30,660 --> 00:04:32,600
-ARC's thoughts have become. .
+00:03:22,745 --> 00:03:23,661
+on a dumped mattress.
+在這個被跳的床墊上
 
 88
-00:04:32,640 --> 00:04:34,600
-. . A bundle of nerves.
+00:03:23,761 --> 00:03:24,484
+A few days earlier, 
+幾天前，
 
 89
-00:04:34,640 --> 00:04:37,960
-Calmer, JCT is engrossed
-by a wall stain. .
+00:03:24,525 --> 00:03:25,603
+for the first time he didn't feel
+這孩子第一次感覺到
 
 90
-00:04:38,000 --> 00:04:40,000
-. . That reminds him
-of the map of Australia.
+00:03:25,703 --> 00:03:26,624
+like a child when his mother
+他不再是孩子了，
 
 91
-00:04:40,180 --> 00:04:41,580
-I don't know. .
+00:03:26,665 --> 00:03:27,735
+took him to the junior floor
+當他母親帶他去青少年樓層 
 
 92
-00:04:41,620 --> 00:04:43,620
-Maybe we don't need so many details.
+00:03:27,835 --> 00:03:28,665
+instead of the children's.
+而不是幼幼區
 
 93
-00:04:44,120 --> 00:04:47,040
-Didn't it all start with
-a very simple question ?
+00:03:30,305 --> 00:03:32,773
+A few feet up, an office worker
+在幾英尺以上，
 
 94
-00:04:47,080 --> 00:04:49,080
-Maybe we will never know
-what happened to the bill.
+00:03:32,873 --> 00:03:34,944
+pours a glass of water.
+一位職員到了一杯水
 
 95
-00:04:50,080 --> 00:04:52,080
-But… Who really cares ?
+00:03:35,745 --> 00:03:40,385
+This action coincides with an unexpected spill
+這一個舉動恰逢另一個打翻事件
 
 96
-00:04:53,008 --> 00:04:55,579
+00:03:40,665 --> 00:03:42,585
+And I know I'm digressing, I know.
+而且我知道我又離題，我知道。
+
+97
+00:03:43,185 --> 00:03:44,930
+But can anyone deny the resemblance
+但誰否認這朵雲
+
+98
+00:03:45,030 --> 00:03:46,984
+of that cloud and Richard Nixon?
+和尼克森總統長得真的很像呢 ？
+
+99
+00:03:47,685 --> 00:03:49,965
+A fraction of the time the cloud took to be formed
+要花一點時間才能形成一朵雲
+
+100
+00:03:50,005 --> 00:03:52,745
+takes a cloud of milk
+像雲般的牛奶
+
+101
+00:03:52,785 --> 00:03:55,285
+to dissolve in Albert's cup of coffee
+在Albert's的咖啡裡面瓦解
+
+102
+00:03:55,465 --> 00:03:57,145
+While he waits, Albert watches TV.
+他在等待的時候，Albert 在看電視。
+
+103
+00:03:57,205 --> 00:03:58,995
+The tragedy on the screen
+在螢幕上發生的悲劇讓
+
+104
+00:03:59,095 --> 00:04:01,464
+makes him wonder what would happen
+他不知道還有什麼會發生
+
+105
+00:04:01,505 --> 00:04:04,445
+if he was in a similar situation right now.
+如果他是現在是在類似的情況。
+
+106
+00:04:05,865 --> 00:04:07,173
+A less harmful explosion
+一個危害較小的爆炸
+
+107
+00:04:07,273 --> 00:04:08,664
+takes place close to him.
+在他身旁真的發生了。
+
+108
+00:04:08,705 --> 00:04:11,325
+Martin always bursts the yolk of the egg
+Martin 總是喜歡把蛋黃弄破
+
+109
+00:04:11,365 --> 00:04:13,305
+with the cap of his favourite sandwich.
+就放在他最喜歡的三明治上面。
+
+110
+00:04:13,345 --> 00:04:14,445
+Beside him, the waiter prepares
+在他旁邊侍者為Roman準備了
+
+111
+00:04:14,545 --> 00:04:15,345
+a hot chocolate for Roman.
+一杯熱巧克力。,
+
+112
+00:04:15,845 --> 00:04:18,845
+who lights another cigarette.
+就是正在抽另一根煙的這個人
+
+113
+00:04:19,405 --> 00:04:20,956
+He thinks it's cool to smoke
+他認為只抽
+
+114
+00:04:21,056 --> 00:04:22,364
+only half cigarettes.
+一半的煙很酷。
+
+115
+00:04:22,405 --> 00:04:24,185
+Let's not judge him.
+我們不要評論他這點好了
+
+116
+00:04:24,225 --> 00:04:26,565
+But let's go back to the focal point of the plot.
+但讓我們回到剛剛的情節吧。
+
+117
+00:04:27,065 --> 00:04:28,985
+It's almost time!
+時間差不多了！
+
+118
+00:04:29,025 --> 00:04:30,965
+ARC's thoughts have become. .
+ARC的思緒已經變得.
+
+119
+00:04:31,005 --> 00:04:32,965
+...a bundle of nerves.
+...非常的緊張。
+
+120
+00:04:33,005 --> 00:04:34,590
+Calmer, JCT is engrossed
+比較平靜的JCT，
+
+121
+00:04:34,690 --> 00:04:36,324
+ by a wall stain.
+全神貫注的在觀察牆上的污點。.
+
+122
+00:04:36,365 --> 00:04:38,365
+That reminds him of the map of Australia.
+這讓他想起了澳洲的地圖。
+
+123
+00:04:38,545 --> 00:04:39,945
+I don't know. .
+我不知道。.
+
+124
+00:04:39,985 --> 00:04:41,985
+Maybe we don't need so many details.
+也許我們不需要這麼多的細節。
+
+125
+00:04:42,485 --> 00:04:45,405
+Didn't it all start with a very simple question ?
+這一切不是開始於一個非常簡單的問題嗎?
+
+126
+00:04:45,445 --> 00:04:46,352
+Maybe we will never know
+也許我們永遠不會知道
+
+127
+00:04:46,452 --> 00:04:47,444
+what happened to the bill.
+帳單到底發生什麼事情
+
+128
+00:04:48,445 --> 00:04:50,445
+But… Who really cares ?
+但......誰真的在乎阿
+
+129
+00:04:51,373 --> 00:04:53,944
 THE RUNAWAY
 
