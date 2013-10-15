@@ -13,7 +13,6 @@ Stop!
 I need to pee!
 我要尿尿！
 
-
 4
 00:00:33,629 --> 00:00:34,968
 So you have to kill us all?
@@ -607,4 +606,5 @@ Blessing! Blessing!
 122
 00:09:41,530 --> 00:09:43,530
 What's that going to do?
-沒用!
+你這樣也不會有幫助
+
