@@ -1,633 +1,919 @@
-﻿1
-00:00:16,050 --> 00:00:19,000
-By the end of summer, people seemed to lose interest.
+1
+00:00:16,050 --> 00:00:17,154
+By the end of summer, 
+到了夏末，
 
 2
-00:00:25,060 --> 00:00:28,100
-Everyone had been holding their breatch
-once they stopped talking.
+00:00:17,254 --> 00:00:18,999
+people seemed to lose interest.
+人們似乎逐漸失去了興趣
 
 3
-00:00:28,160 --> 00:00:31,140
-But you can oly hold it for so long I s'pose.
+00:00:25,060 --> 00:00:26,742
+Everyone had been holding their breath
+在他們停止討論了以後，
 
 4
-00:00:34,120 --> 00:00:38,080
-People have their own problems. . Even here.
+00:00:26,842 --> 00:00:28,099
+once they stopped talking.
+每個人似乎都沉默了下來
 
 5
-00:00:40,000 --> 00:00:45,120
-No more speculations. . No more tears or
-neighbourhood search parties. .
+00:00:28,160 --> 00:00:31,140
+But you can only hold it for so long I suppose.
+但我想有一天總會憋不住的
 
 6
-00:00:52,200 --> 00:00:56,100
-Girls like her seem to come from somewhere else. .
+00:00:34,120 --> 00:00:37,071
+People have their own problems...
+每個人都有自己要對付的心魔，
 
 7
-00:00:58,000 --> 00:01:00,040
-The way she moved. .
+00:00:37,171 --> 00:00:38,079
+Even here.
+無論在哪。
 
 8
-00:01:00,160 --> 00:01:03,200
-Like an alien. . Living in that pool.
+00:00:40,000 --> 00:00:41,465
+No more speculations...
+不再猜測 、
 
 9
+00:00:41,565 --> 00:00:42,666
+No more tears
+不再有眼淚、
+
+10
+00:00:42,766 --> 00:00:45,119
+ or neighbourhood search parties...
+也不再有鄰居組成的尋人小組。
+
+11
+00:00:52,200 --> 00:00:56,099
+Girls like her seem to come from somewhere else...
+像她這樣的女孩，感覺完全不屬於這裡
+
+12
+00:00:58,000 --> 00:01:00,040
+The way she moved. .
+她的一舉一動...
+
+13
+00:01:00,160 --> 00:01:01,295
+Like an alien...
+就好像...
+
+14
+00:01:01,395 --> 00:01:03,199
+Living in that pool.
+一個住在那座游泳池裡的外星人…
+
+15
 00:01:12,160 --> 00:01:14,080
 Georgina.
 
-10
+16
 00:01:34,080 --> 00:01:37,000
 Her parents turned her room upside down.
-
-11
-00:01:37,040 --> 00:01:39,040
-But all they found was a diary
-
-12
-00:01:39,100 --> 00:01:43,060
-containing daily lists of the food she ate,
-and how far she'd swam.
-
-13
-00:01:44,200 --> 00:01:46,120
-Or so I heard.
-
-14
-00:01:50,140 --> 00:01:54,160
-When you don't know,
-truth is just what you decide it is.
-
-15
-00:01:56,020 --> 00:01:59,220
-And she never came back to tell us otherwise.
-
-16
-00:02:19,140 --> 00:02:21,260
-She couldn't speak English at all yeah.
+她父母徹底翻遍了她的房間
 
 17
-00:02:21,300 --> 00:02:23,720
-The only thing she could say was ''I love you''.
+00:01:37,040 --> 00:01:39,040
+But all they found was a diary
+但他們唯一能找到的只有一本日記
 
 18
-00:02:24,040 --> 00:02:26,060
-So basically yeah, I fucking turned her around. .
+00:01:39,100 --> 00:01:41,626
+containing daily lists of the food she ate,
+持續記錄著她吃過的東西
 
 19
-00:02:26,100 --> 00:02:29,000
-Johnny went to Thailand for two weeks.
+00:01:41,726 --> 00:01:43,059
+and how far she'd swam.
+和她游了多遠
 
 20
-00:02:30,020 --> 00:02:31,400
-He met a girl.
+00:01:44,200 --> 00:01:46,120
+Or so I heard.
+至少那是我聽說的
 
 21
-00:02:31,440 --> 00:02:35,080
-They danced to techno on the beach
-and fucked every night.
+00:01:50,140 --> 00:01:51,560
+When you don't know,
+當你無法理解的時候，
 
 22
-00:02:36,100 --> 00:02:38,820
-He can last 45 minutes now.
+00:01:51,660 --> 00:01:54,159
+truth is just what you decide it is.
+你決定相信的事情就成為所謂的真相
 
 23
-00:02:39,760 --> 00:02:42,580
-A half in football lasts 45 minutes.
+00:01:56,020 --> 00:01:59,220
+And she never came back to tell us otherwise.
+而她再也沒有回來以給我們別的解釋
 
 24
-00:02:42,640 --> 00:02:45,160
-You know what I mean !
-He don't, he's a virgin in he ?
+00:02:19,140 --> 00:02:21,260
+She couldn't speak English at all yeah.
+畢竟她根本不會說英語
 
 25
-00:02:45,200 --> 00:02:50,080
-How about then. . How about. .
-Let's say. . Barbara Windsor. .
+00:02:21,300 --> 00:02:22,850
+The only thing she could say was
+她唯一會說的一句話就是
 
 26
-00:02:51,120 --> 00:02:52,280
-Fuckin' look at that !
+00:02:22,950 --> 00:02:23,719
+"I love you"
+[我愛你]
 
 27
-00:02:52,320 --> 00:02:54,100
-Come on man, come on !
+00:02:24,040 --> 00:02:24,762
+So basically yeah,
+所以我想可以說
 
 28
-00:02:54,140 --> 00:02:55,400
-Where'd you get that from ? !
+00:02:24,862 --> 00:02:26,059
+I fucking turned her around...
+我把她迷的團團轉...
 
 29
-00:02:55,440 --> 00:02:57,440
-Give us a go !
+00:02:26,100 --> 00:02:29,000
+Johnny went to Thailand for two weeks.
+強尼去了泰國兩個禮拜
 
 30
-00:03:46,240 --> 00:03:47,600
-Sorry, what ?
+00:02:30,020 --> 00:02:31,400
+He met a girl.
+他遇見了一個女孩
 
 31
-00:03:47,640 --> 00:03:50,680
-You might want to put a hat on !
+00:02:31,440 --> 00:02:33,676
+They danced to techno on the beach
+他們每晚都隨著電音在沙灘上跳舞
 
 32
-00:03:51,200 --> 00:03:54,400
-Thank you Mrs. Woods.
+00:02:33,776 --> 00:02:35,079
+and fucked every night.
+然後瘋狂做愛
 
 33
-00:04:10,440 --> 00:04:14,240
-Some of the guys say you have to ignore girls you like.
+00:02:36,100 --> 00:02:38,820
+He can last 45 minutes now.
+他現在可以撐45分鐘
 
 34
-00:04:16,020 --> 00:04:18,020
-I can't.
+00:02:39,760 --> 00:02:42,580
+A half in football lasts 45 minutes.
+那根本是半場足球的時間了
 
 35
-00:04:18,800 --> 00:04:23,580
-It's like a car crash, or a drunk shouting in the street.
+00:02:42,640 --> 00:02:43,570
+You know what I mean!
+你懂的！ 
 
 36
-00:04:23,640 --> 00:04:26,160
-You just can't look away.
+00:02:43,670 --> 00:02:45,160
+He don't, he's a virgin in he?
+他不會懂 他還是小處男吧
 
 37
-00:04:29,580 --> 00:04:31,300
-I want to. .
+00:02:45,200 --> 00:02:47,531
+How about then... How about...
+那不然...不然..
 
 38
-00:04:31,580 --> 00:04:32,840
-But I can't.
+00:02:47,631 --> 00:02:50,079
+Let's say... Barbara Windsor...
+假設是HOLD住姊好了
 
 39
-00:04:32,880 --> 00:04:33,920
-What ?
+00:02:51,120 --> 00:02:52,280
+Fuckin' look at that !
+幹！你看那個！
 
 40
-00:04:59,680 --> 00:05:01,060
-Hey.
+00:02:52,320 --> 00:02:54,100
+Come on man, come on !
+快過來！快過來！
 
 41
-00:05:02,000 --> 00:05:03,360
-You hangover ?
+00:02:54,140 --> 00:02:55,400
+Where'd you get that from ? !
+你怎麼有這個！？
 
 42
-00:05:03,400 --> 00:05:05,600
-Let the boy eat his breakfast.
+00:02:55,440 --> 00:02:57,440
+Give us a go !
+讓我們玩!
 
 43
-00:06:16,000 --> 00:06:19,000
-Weren't you gonna save me ?
+00:03:46,240 --> 00:03:47,600
+Sorry, what ?
+抱歉，你剛說什麼？
 
 44
-00:06:20,760 --> 00:06:22,760
-I knew you were playing.
+00:03:47,640 --> 00:03:50,680
+You might want to put a hat on !
+你要不要戴頂帽子阿!
 
 45
-00:06:23,700 --> 00:06:26,700
-It's like living with dead people
-in this house anyway.
+00:03:51,200 --> 00:03:54,400
+Thank you Mrs. Woods.
+謝謝你，伍茲太太
 
 46
-00:06:29,220 --> 00:06:31,220
-They seem all right.
+00:04:10,440 --> 00:04:11,762
+Some of the guys say
+有些男生會說
 
 47
-00:06:32,080 --> 00:06:34,080
-Are yours happy ?
+00:04:11,862 --> 00:04:14,239
+you have to ignore girls you like.
+你要假裝無視你喜歡的女生
 
 48
-00:06:35,620 --> 00:06:37,100
-I think so.
+00:04:16,019 --> 00:04:18,019
+I can't.
+我沒辦法
 
 49
-00:06:37,140 --> 00:06:38,620
-Dunno.
+00:04:18,800 --> 00:04:20,662
+It's like a car crash,
+這就像一次撞車，
 
 50
-00:06:39,000 --> 00:06:42,620
-Well. . Do they have sex after they fight ?
+00:04:20,762 --> 00:04:23,580
+or a drunk shouting in the street.
+或是一個醉鬼在街上大喊
 
 51
-00:06:45,120 --> 00:06:47,120
-Uh, forget about it.
+00:04:23,640 --> 00:04:26,160
+You just can't look away.
+你不可能假裝沒看到的
 
 52
-00:06:50,120 --> 00:06:52,120
-If they do I just take my hearing aid out.
+00:04:29,580 --> 00:04:31,300
+I want to. .
+我很想...
 
 53
-00:06:54,140 --> 00:06:56,720
-What's it like without that thing ?
+00:04:31,580 --> 00:04:32,840
+But I can't.
+但我做不到
 
 54
-00:06:57,780 --> 00:07:00,540
-Like. . Like being underwater. . Sort of.
+00:04:32,880 --> 00:04:33,920
+What ?
+什麼？
 
 55
-00:07:10,000 --> 00:07:12,720
-I read that you have a better chance of sleeping with a girl
+00:04:59,680 --> 00:05:01,060
+Hey.
+嘿
 
 56
-00:07:12,760 --> 00:07:15,360
-if you find an excuse to leave the room. .
+00:05:02,000 --> 00:05:03,360
+You hangover ?
+你宿醉唷？
 
 57
-00:07:15,820 --> 00:07:18,600
-So she can undress alone.
+00:05:03,400 --> 00:05:05,600
+Let the boy eat his breakfast.
+你讓他好好吃早餐啦
 
 58
-00:07:19,360 --> 00:07:23,520
-It's the undressing bit that's uncomfortable
-about getting naked.
+00:06:16,000 --> 00:06:19,000
+Weren't you gonna save me ?
+你沒有要救我嘛？
 
 59
-00:07:24,100 --> 00:07:26,100
-That's why doctors pull a curtain.
+00:06:20,760 --> 00:06:22,760
+I knew you were playing.
+我知道你是裝的
 
 60
-00:07:46,020 --> 00:07:47,160
-One. .
+00:06:23,700 --> 00:06:26,699
+It's like living with dead people in this house anyway.
+反正住在這裡我就像跟死人住在一起差不多
 
 61
-00:07:47,200 --> 00:07:48,500
-. . Two. .
+00:06:29,220 --> 00:06:31,220
+They seem all right.
+他們看起來還ok阿
 
 62
-00:07:50,100 --> 00:07:51,100
-. . Three. .
+00:06:32,080 --> 00:06:34,080
+Are yours happy ?
+你的呢？他們快樂嘛？
 
 63
-00:07:55,360 --> 00:08:00,640
-At the bottom, she wanted to tell me a secret
-in exchange for one of mine.
+00:06:35,620 --> 00:06:37,100
+I think so.
+我猜是吧
 
 64
-00:08:01,160 --> 00:08:03,160
-Only had the one.
+00:06:37,140 --> 00:06:38,620
+Dunno.
+不知道..
 
 65
-00:08:06,840 --> 00:08:09,400
-I don't even think it was a secret.
+00:06:39,000 --> 00:06:42,620
+Well... Do they have sex after they fight ?
+嗯… 他們吵玩架以後會做愛嘛？
 
 66
-00:08:50,020 --> 00:08:54,680
-Mrs. Phillips came by the house. Said you
-promised to do her rose-bushes
+00:06:45,120 --> 00:06:47,120
+Uh, forget about it.
+痾…當我沒說好了...
 
 67
-00:08:55,020 --> 00:08:57,020
-You should keep your promises.
+00:06:50,120 --> 00:06:52,120
+If they do I just take my hearing aid out.
+如果他們真的有，我會把助聽器拿掉
 
 68
-00:08:59,620 --> 00:09:01,340
-Hey. . How you doing ?
+00:06:54,140 --> 00:06:56,720
+What's it like without that thing?
+把這個拿掉會是什麼感覺阿？
 
 69
-00:09:01,380 --> 00:09:02,740
-Hello !
+00:06:57,780 --> 00:07:00,540
+Like... Like being underwater... Sort of.
+就像...嗯...有點像在水底下吧...
 
 70
-00:09:10,020 --> 00:09:11,960
-What's his name then Clare ?
+00:07:10,000 --> 00:07:10,844
+I read that you have
+我聽說如果
 
 71
-00:09:12,000 --> 00:09:13,940
-Oh come on !
+00:07:10,944 --> 00:07:12,719
+a better chance of sleeping with a girl
+你找個藉口離開現場一下，
 
 72
-00:09:13,980 --> 00:09:15,940
-I told you. You've forgotten.
-I'm not telling you again.
+00:07:12,760 --> 00:07:15,360
+if you find an excuse to leave the room...
+你可能會更有機會跟那個女生發生關係
 
 73
-00:09:15,980 --> 00:09:17,980
-Does she has a man ?
-<i>- She hasn't got one. She's never. .</i>
+00:07:15,820 --> 00:07:18,600
+So she can undress alone.
+因為她可以有獨自一人的時間脫衣服
 
 74
-00:09:18,620 --> 00:09:20,740
-She's never had one.
-<i>- Right</i>
+00:07:19,360 --> 00:07:22,118
+It's the undressing bit that's uncomfortable
+脫衣服跟慢慢變的赤裸
 
 75
-00:09:22,080 --> 00:09:24,780
-I just wanna say…
-<i>-Speech !</i>
+00:07:22,218 --> 00:07:23,520
+about getting naked.
+是不同的感覺
 
 76
-00:09:24,880 --> 00:09:28,060
-It's not a speech. It just wanna say. .
+00:07:24,100 --> 00:07:26,100
+That's why doctors pull a curtain.
+這也是為什麼在醫院你會有布簾擋著
 
 77
-00:09:29,060 --> 00:09:31,380
-. . That family is important. And. .
+00:07:46,020 --> 00:07:47,160
+One. .
+一...
 
 78
-00:09:31,420 --> 00:09:33,400
-To be able to get to your twenty year anniversary. .
+00:07:47,200 --> 00:07:48,500
+. . Two. .
+二...
 
 79
-00:09:33,460 --> 00:09:34,520
-Eighteen hon.
+00:07:50,100 --> 00:07:51,100
+. . Three. .
+三...
 
 80
-00:09:34,560 --> 00:09:37,060
-Whatever. . It's not nothing.
+00:07:55,360 --> 00:07:58,366
+At the bottom, she wanted to tell me a secret
+在水底的時候 她想用
 
 81
-00:09:38,000 --> 00:09:41,200
-And. . Well I just don't know how you do it.
+00:07:58,466 --> 00:08:00,639
+in exchange for one of mine.
+一個祕密交換我的一個祕密
 
 82
-00:09:45,000 --> 00:09:47,000
-Thank you Clare, that's very nice.
+00:08:01,160 --> 00:08:03,160
+Only had the one.
+只有一個
 
 83
-00:09:47,040 --> 00:09:48,540
-To the family.
+00:08:06,840 --> 00:08:09,400
+I don't even think it was a secret.
+我甚至不覺得那是秘密
 
 84
-00:09:48,580 --> 00:09:50,580
-Family.
+00:08:50,020 --> 00:08:52,035
+Mrs. Phillips came by the house.
+ 菲利浦太太來過一趟，
 
 85
-00:09:52,820 --> 00:09:55,080
-Are they under the table ? -<i>No. </i>
-Look under the table.
+00:08:52,135 --> 00:08:54,679
+Said you promised to do her rose-bushes
+他說你沒有依約整理他們的玫瑰花
 
 86
-00:09:55,240 --> 00:09:56,980
-Ah, what colour are they ?
+00:08:55,020 --> 00:08:57,020
+You should keep your promises.
+你應該遵守承諾的
 
 87
-00:09:57,040 --> 00:09:59,160
-Well they're brown - like the carpet !
+00:08:59,620 --> 00:09:01,340
+Hey... How you doing ?
+嘿... 你還好嘛？
 
 88
-00:09:59,200 --> 00:10:01,000
-Maybe you came without the shoes.
+00:09:01,380 --> 00:09:02,740
+Hello !
+哈囉！
 
 89
-00:10:01,040 --> 00:10:02,200
-I didn't come without shoes !
+00:09:10,020 --> 00:09:11,960
+What's his name then Clare ?
+Clare, 你說他叫什麼名字?
 
 90
-00:10:02,260 --> 00:10:04,260
-Is this them ?
-<i>- No !</i>
+00:09:12,000 --> 00:09:13,940
+Oh come on !
+幹嘛這樣!
 
 91
-00:10:08,080 --> 00:10:10,080
-Oh there they are !
+00:09:13,980 --> 00:09:14,960
+I told you. You've forgotten.
+我上次有說阿! 你忘了，
 
 92
-00:10:11,200 --> 00:10:12,660
-Let's get you a cab.
+00:09:15,060 --> 00:09:15,939
+I'm not telling you again.
+我沒有要再告訴你一次唷
 
 93
-00:10:12,700 --> 00:10:14,700
-You start loading. I'll get the rest.
+00:09:15,980 --> 00:09:16,754
+Does she has a man ?
+她有男人？
 
 94
-00:11:05,020 --> 00:11:07,020
-Take these up, okay ?
+00:09:16,794 --> 00:09:17,979
+She hasn't got one. She's never.
+.應該還沒，她從來
 
 95
-00:11:14,100 --> 00:11:16,060
-Hi.
-<i>- Hi.</i>
+00:09:18,620 --> 00:09:20,740
+- She's never had one. - Right 
+- 她沒交過男朋友  -對啦對啦
 
 96
-00:11:16,100 --> 00:11:19,100
-Hi. What are you doing here ?
+00:09:22,080 --> 00:09:24,780
+- I just wanna say… - Speech !
+- 我只是想說... - 開講囉！！
 
 97
-00:11:20,720 --> 00:11:23,360
-Just visiting Sam, the door was open. .
+00:09:24,880 --> 00:09:28,060
+It's not a speech. It just wanna say...
+沒那麼誇張，我只是想講講
 
 98
-00:11:58,200 --> 00:12:01,200
-Hi.
-<i>- Hi.</i>
+00:09:29,060 --> 00:09:31,380
+...That family is important. And...
+我想說家庭真的很重要, 然後...
 
 99
-00:12:40,220 --> 00:12:42,220
-I'm sorry.
+00:09:31,420 --> 00:09:33,400
+to be able to get to your twenty year anniversary
+可以組成一個家庭度過二十個年頭...
 
 100
-00:13:07,100 --> 00:13:10,960
-Wouldn't it be funny if they
-thought that we were doing it ?
+00:09:33,460 --> 00:09:34,520
+Eighteen hon.
+是十八，親愛的
 
 101
-00:13:48,120 --> 00:13:51,100
-Uh, come on Sam, don't look so serious.
+00:09:34,560 --> 00:09:37,060
+Whatever. . It's not nothing.
+總之，這真的不容易
 
 102
-00:13:55,120 --> 00:14:00,020
-I auditioned for a school play once,
-only for a small part.
+00:09:38,000 --> 00:09:41,200
+And... Well I just don't know how you do it.
+然後... 我真的不知道你們怎麼辦到的！
 
 103
-00:14:00,080 --> 00:14:02,080
-The director said I wasn't convincing.
+00:09:45,000 --> 00:09:47,000
+Thank you Clare, that's very nice.
+謝謝你Clare， 你真好
 
 104
-00:14:10,020 --> 00:14:12,020
-I have to go.
+00:09:47,040 --> 00:09:48,540
+To the family.
+敬家庭！
 
 105
-00:14:14,040 --> 00:14:16,000
-She gave the part to someone else.
+00:09:48,580 --> 00:09:50,580
+Family.
+敬家庭
 
 106
-00:14:16,060 --> 00:14:19,100
-Um. . Could you walk me out ?
+00:09:52,820 --> 00:09:53,799
+Are they under the table?
+有沒有在桌子底下阿？
 
 107
-00:14:22,100 --> 00:14:25,040
-What time ? You don't know what
-you are talking about. .
+00:09:53,899 --> 00:09:55,079
+-No. - Look under the table.
+-沒阿！ - 看一下桌子下面
 
 108
-00:14:33,040 --> 00:14:35,040
-Congratulations Georgina. Well done.
+00:09:55,240 --> 00:09:56,980
+Ah, what colour are they ?
+那他們是什麼顏色的呢？
 
 109
-00:14:38,040 --> 00:14:40,420
-Say it to the girl who won.
+00:09:57,040 --> 00:09:59,160
+Well they're brown - like the carpet !
+是咖啡色，剛好跟地毯一樣！
 
 110
-00:15:00,040 --> 00:15:02,300
-You've disrespected the family and upset your mum.
+00:09:59,200 --> 00:10:01,000
+Maybe you came without the shoes.
+你是不是根本沒有穿鞋子來阿？
 
 111
-00:15:02,400 --> 00:15:04,540
-We. . We were just. .
+00:10:01,040 --> 00:10:02,200
+I didn't come without shoes !
+我有穿鞋子來好嘛！
 
 112
-00:15:04,580 --> 00:15:07,340
-Do you understand, Samuel ?
-<i>- Yes.</i>
+00:10:02,260 --> 00:10:04,260
+- Is this them ? - No!
+- 是這雙嘛？ - 不是！
 
 113
-00:15:39,040 --> 00:15:41,040
-There's lemonade inside.
+00:10:08,080 --> 00:10:10,080
+Oh there they are !
+喔喔在這邊！！
 
 114
-00:15:42,200 --> 00:15:44,200
-I think I should maybe finish. .
+00:10:11,200 --> 00:10:12,660
+Let's get you a cab.
+我們幫你叫車吧！
 
 115
-00:15:45,160 --> 00:15:47,160
-. . Finish the leaves. .
+00:10:12,700 --> 00:10:14,700
+You start loading. I'll get the rest.
+你先開始清，我等一下會來幫你
 
 116
-00:16:04,020 --> 00:16:06,020
-Cheers.
+00:11:05,020 --> 00:11:07,020
+Take these up, okay?
+把這拿上樓好嗎？
 
 117
-00:16:22,020 --> 00:16:25,020
-The garden looks wonderful Sam.
-Thank you.
+00:11:14,100 --> 00:11:16,060
+- Hi. - Hi.
+- 哈囉 - 嗨
 
 118
-00:16:32,020 --> 00:16:34,020
-Yeah.
+00:11:16,100 --> 00:11:19,100
+Hi. What are you doing here ?
+哈囉，請問你有什麼事嗎？
 
 119
-00:16:39,060 --> 00:16:41,060
-I'd better go and finish the pool.
+00:11:20,720 --> 00:11:23,360
+Just visiting Sam, the door was open...
+我只是來看看Sam, 你們門是開的...
 
 120
-00:19:16,120 --> 00:19:19,720
-Maybe she was showing Dad
-what we were doing the other day.
+00:11:58,200 --> 00:12:01,200
+- Hi. - Hi.
+- 嗨  - 嗨
 
 121
-00:19:22,140 --> 00:19:25,380
-But it didn't sound like a joke anymore.
+00:12:40,220 --> 00:12:42,220
+I'm sorry.
+剛剛對不起
 
 122
-00:19:26,100 --> 00:19:28,100
-Maybe Dad joined in.
+00:13:07,100 --> 00:13:09,385
+Wouldn't it be funny if they thought
+如果他們以為我們在那個，
 
 123
-00:19:28,700 --> 00:19:30,700
-Found it funny.
+00:13:09,485 --> 00:13:10,959
+ that we were doing it?
+應該會很好笑吧？
 
 124
-00:19:48,840 --> 00:19:51,260
-Maybe he told her I was a virgin.
+00:13:48,120 --> 00:13:51,100
+Uh, come on Sam, don't look so serious. 
+ㄟ 你不要看起來這麼嚴肅嘛
 
 125
-00:19:52,140 --> 00:19:54,140
-They probably laughed about it.
+00:13:55,120 --> 00:13:58,037
+I auditioned for a school play once,
+我曾經去學校的
 
 126
-00:20:01,740 --> 00:20:04,080
-I bet he made her come.
+00:13:58,137 --> 00:14:00,019
+only for a small part.
+一個短劇試鏡
 
 127
-00:20:09,580 --> 00:20:12,560
-Maybe they smoked cigarettes afterwards.
+00:14:00,080 --> 00:14:02,080
+The director said I wasn't convincing.
+導演說我聽起來沒有說服力
 
 128
-00:20:16,380 --> 00:20:18,380
-They do in films.
+00:14:10,020 --> 00:14:12,020
+I have to go.
+我該走了
 
 129
-00:20:22,120 --> 00:20:24,120
-Except in porn.
+00:14:14,040 --> 00:14:16,000
+She gave the part to someone else.
+她最後把那個角色給別人了
 
 130
-00:20:25,080 --> 00:20:27,080
-Porn just ends.
+00:14:16,060 --> 00:14:19,100
+Um... Could you walk me out ?
+嗯... 你可以陪我走出去嘛？
 
 131
-00:20:36,100 --> 00:20:38,100
-My baby boy.
+00:14:22,100 --> 00:14:23,094
+What time?
+什麼叫他長大了？
 
 132
-00:20:38,540 --> 00:20:40,540
-Growing up so fast.
+00:14:23,194 --> 00:14:25,039
+You don't know what you are talking about...
+你根本不知道你在說什麼！
 
 133
-00:20:58,040 --> 00:21:01,340
-Girls don't just disappear.
+00:14:33,040 --> 00:14:35,040
+Congratulations Georgina. Well done.
+恭喜呀 Georgina, 拿獎牌耶！
 
 134
-00:21:04,600 --> 00:21:07,960
-What if he strangled her to death
-in one of those sex games.
+00:14:38,040 --> 00:14:40,420
+Say it to the girl who won.
+去跟那個得到的女孩說吧
 
 135
-00:21:13,400 --> 00:21:15,940
-You all right ?
+00:15:00,040 --> 00:15:01,313
+You've disrespected the family
+你並沒有尊重這個家庭，
 
 136
-00:21:20,660 --> 00:21:23,760
-Maybe when Geogina's dad came by that night. .
+00:15:01,413 --> 00:15:02,370
+and upset your mum.
+還讓你的母親很傷心
 
 137
-00:21:26,700 --> 00:21:28,700
-. . Dad lied.
+00:15:02,400 --> 00:15:04,540
+We... We were just...
+我們... 我們只是...
 
 138
-00:21:39,200 --> 00:21:41,200
-Maybe Mum knew.
+00:15:04,580 --> 00:15:06,772
+Do you understand, Samuel ?
+你了解嘛？Samuel
 
 139
-00:22:48,240 --> 00:22:50,000
-What did you do Dad ?
+00:15:06,872 --> 00:15:07,839
+Yes.
+我了解了
 
 140
-00:22:50,060 --> 00:22:51,100
-What did you do Dad ?
+00:15:39,040 --> 00:15:41,040
+There's lemonade inside.
+裡面有飲料唷！
 
 141
-00:22:51,160 --> 00:22:53,160
-What did you do Dad ?
+00:15:42,200 --> 00:15:44,200
+I think I should maybe finish. .
+我想先撈完這些...
 
 142
-00:23:15,240 --> 00:23:17,240
-What's wrong with you ?
+00:15:45,160 --> 00:15:47,160
+... Finish the leaves...
+葉子...
 
 143
-00:23:28,000 --> 00:23:30,260
-Or maybe I just imagined the noise.
+00:16:04,020 --> 00:16:06,020
+Cheers.
+快喝吧
 
 144
-00:23:56,060 --> 00:23:58,060
-Maybe Georgina ran away. .
+00:16:22,020 --> 00:16:24,297
+The garden looks wonderful Sam.
+我們的花園變得好漂亮，Sam
 
 145
-00:23:59,300 --> 00:24:02,300
-Got tired of her parents and swimming
-and school and all that.
+00:16:24,397 --> 00:16:25,019
+Thank you.
+謝謝你
 
 146
-00:24:05,480 --> 00:24:08,840
-She could be on a beautiful beach somewhere.
+00:16:32,020 --> 00:16:34,020
+Yeah.
+對..
 
 147
-00:24:09,480 --> 00:24:11,840
-Eating with her hands. .
+00:16:39,060 --> 00:16:41,060
+I'd better go and finish the pool.
+我最好去把游泳池清完
 
 148
-00:24:12,040 --> 00:24:16,480
-Dancing around the fire. .
-And skinny-dipping in the ocean.
+00:19:16,120 --> 00:19:17,702
+Maybe she was showing Dad
+也許她表演給我爸看
 
 149
-00:24:21,140 --> 00:24:25,940
-Maybe she's in love with a guy
-who can last 45 minutes.
+00:19:17,802 --> 00:19:19,719
+what we were doing the other day.
+我們那天在做什麼
 
 150
-00:24:43,820 --> 00:24:46,660
-45 minutes. .
+00:19:22,140 --> 00:19:25,380
+But it didn't sound like a joke anymore.
+但這次聽起來是玩真的了
 
 151
+00:19:26,100 --> 00:19:28,100
+Maybe Dad joined in.
+也許我爸加入了...
+
+152
+00:19:28,700 --> 00:19:30,700
+Found it funny. 
+也許為了好玩
+
+153
+00:19:48,840 --> 00:19:51,260
+Maybe he told her I was a virgin.
+也許她告訴我爸我是處男
+
+154
+00:19:52,140 --> 00:19:54,140
+They probably laughed about it.
+也許他們一起嘲笑我
+
+155
+00:20:01,740 --> 00:20:04,080
+I bet he made her come.
+我敢保證他讓她高潮了
+
+156
+00:20:09,580 --> 00:20:12,560
+Maybe they smoked cigarettes afterwards.
+也許他們還會抽事後煙
+
+157
+00:20:16,380 --> 00:20:18,380
+They do in films.
+像電影一樣
+
+158
+00:20:22,120 --> 00:20:24,120
+Except in porn.
+除了A片
+
+159
+00:20:25,080 --> 00:20:27,080
+Porn just ends.
+A片會直接結束
+
+160
+00:20:36,100 --> 00:20:38,100
+My baby boy. 
+我的小寶貝
+
+161
+00:20:38,540 --> 00:20:40,540
+Growing up so fast.
+你長大得好快
+
+162
+00:20:58,040 --> 00:21:01,340
+Girls don't just disappear.
+女生不會就突然消失
+
+163
+00:21:04,600 --> 00:21:06,290
+What if he strangled her to death
+會不會是他有一次在玩
+
+164
+00:21:06,390 --> 00:21:07,959
+in one of those sex games.
+他們的性遊戲的時候把她勒死了
+
+165
+00:21:13,400 --> 00:21:15,940
+You all right ?
+你還好嘛？
+
+166
+00:21:20,660 --> 00:21:23,760
+Maybe when Geogina's dad came by that night...
+也許當Geogina的爸爸來按門鈴的那晚
+
+167
+00:21:26,700 --> 00:21:28,700
+... Dad lied.
+我爸撒謊了...
+
+168
+00:21:39,200 --> 00:21:41,200
+Maybe Mum knew.
+也許老媽什麼都知道
+
+169
+00:22:48,240 --> 00:22:50,000
+What did you do Dad ?
+爸，你做了什麼？
+
+170
+00:22:50,060 --> 00:22:51,100
+What did you do Dad ?
+爸，你做了什麼？
+
+171
+00:22:51,160 --> 00:22:53,160
+What did you do Dad ?
+爸，你做了什麼？
+
+172
+00:23:15,240 --> 00:23:17,240
+What's wrong with you ?
+你到底有什麼毛病！
+
+173
+00:23:28,000 --> 00:23:30,260
+Or maybe I just imagined the noise.
+也許那些聲音都是我想像出來的
+
+174
+00:23:56,060 --> 00:23:58,060
+Maybe Georgina ran away...
+也許Georgina只是逃走了
+
+175
+00:23:59,300 --> 00:24:00,519
+Got tired of her parents
+厭倦了她的父母、
+
+176
+00:24:00,619 --> 00:24:02,299
+and swimming and school and all that.
+游泳、學校和一切
+
+177
+00:24:05,480 --> 00:24:08,840
+She could be on a beautiful beach somewhere.
+她可能正在某處一座美麗的沙灘上
+
+178
+00:24:09,480 --> 00:24:11,840
+Eating with her hands...
+用手吃著東西
+
+179
+00:24:12,040 --> 00:24:14,008
+Dancing around the fire...
+圍著營火跳舞..
+
+180
+00:24:14,108 --> 00:24:16,479
+and skinny-dipping in the ocean.
+在大海裡裸泳...
+
+181
+00:24:21,140 --> 00:24:23,720
+Maybe she's in love with a guy
+也許她愛上了一個可以撐
+
+182
+00:24:23,820 --> 00:24:25,939
+who can last 45 minutes.
+四十五分鐘的男人
+
+183
+00:24:43,820 --> 00:24:46,660
+45 minutes. .
+四 -- 十 -- 五分鐘....
+
+184
 00:24:48,055 --> 00:24:50,055
 That sounds like a long time.
+聽起來超久的...
 
