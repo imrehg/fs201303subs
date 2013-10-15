@@ -105,7 +105,7 @@ Every day she walks by and she imagines
 
 22
 00:00:50,826 --> 00:00:52,704
-something different inside. 
+something different inside.
 她都想像裡面有不同的東西。
 
 23
@@ -186,7 +186,7 @@ I should also talk about the three men
 38
 00:01:28,065 --> 00:01:28,514
 involved in the plot
-也參與在這個故事 
+也參與在這個故事
 
 39
 00:01:28,614 --> 00:01:29,184
@@ -316,7 +316,7 @@ There the compression and the spark
 64
 00:02:21,505 --> 00:02:24,199
 will generate a tiny explosion
-將生成一個小爆炸 
+將生成一個小爆炸
 
 65
 00:02:24,299 --> 00:02:27,064
@@ -435,7 +435,7 @@ on a dumped mattress.
 
 88
 00:03:23,761 --> 00:03:24,484
-A few days earlier, 
+A few days earlier,
 幾天前，
 
 89
@@ -451,7 +451,7 @@ like a child when his mother
 91
 00:03:26,665 --> 00:03:27,735
 took him to the junior floor
-當他母親帶他去青少年樓層 
+當他母親帶他去青少年樓層
 
 92
 00:03:27,835 --> 00:03:28,665
@@ -641,4 +641,3 @@ But… Who really cares ?
 129
 00:04:51,373 --> 00:04:53,944
 THE RUNAWAY
-

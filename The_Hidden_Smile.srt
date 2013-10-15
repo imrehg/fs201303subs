@@ -269,7 +269,7 @@ Are you still high?
 
 55
 00:07:55,400 --> 00:07:56,618
-Not so much, 
+Not so much,
 現在沒了，
 
 56
@@ -305,7 +305,7 @@ and accidentaly dropped 100 birr...
 62
 00:08:14,320 --> 00:08:16,370
 Inmediately he stepped on the bill
-他馬上踩住那張100, 
+他馬上踩住那張100,
 
 63
 00:08:16,470 --> 00:08:18,232
@@ -565,4 +565,3 @@ We're going to beat you up!
 114
 00:13:12,480 --> 00:13:18,400
 THE HIDDEN SMILE
-
